@@ -1,0 +1,5 @@
+C:\programming-tasks\task-4-notepad\task-4-notepad\obj\Debug\netcoreapp3.1\task-4-notepad.csprojAssemblyReference.cache
+C:\programming-tasks\task-4-notepad\task-4-notepad\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\programming-tasks\task-4-notepad\task-4-notepad\obj\Debug\netcoreapp3.1\App.g.cs
+C:\programming-tasks\task-4-notepad\task-4-notepad\obj\Debug\netcoreapp3.1\task-4-notepad_MarkupCompile.cache
+C:\programming-tasks\task-4-notepad\task-4-notepad\obj\Debug\netcoreapp3.1\task-4-notepad_MarkupCompile.lref

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-2-multipliers", "task-2-multipliers\task-2-multipliers.csproj", "{26E7A868-0DD7-4BF6-BF25-391B169AA382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E7A868-0DD7-4BF6-BF25-391B169AA382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E7A868-0DD7-4BF6-BF25-391B169AA382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E7A868-0DD7-4BF6-BF25-391B169AA382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E7A868-0DD7-4BF6-BF25-391B169AA382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A454EA1-5B55-4F89-AE10-BF2556F166C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.csprojAssemblyReference.cache
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.AssemblyInfoInputs.cache
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.AssemblyInfo.cs
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.csproj.CoreCompileInputs.cache
+C:\programming-tasks\task-1-sorting\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.exe
+C:\programming-tasks\task-1-sorting\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.deps.json
+C:\programming-tasks\task-1-sorting\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.runtimeconfig.json
+C:\programming-tasks\task-1-sorting\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.runtimeconfig.dev.json
+C:\programming-tasks\task-1-sorting\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.dll
+C:\programming-tasks\task-1-sorting\task-1-sorting\bin\Debug\netcoreapp3.1\task-1-sorting.pdb
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.dll
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.pdb
+C:\programming-tasks\task-1-sorting\task-1-sorting\obj\Debug\netcoreapp3.1\task-1-sorting.genruntimeconfig.cache
